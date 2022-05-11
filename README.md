@@ -1,6 +1,11 @@
-### Hi there 👋
+![android](https://user-images.githubusercontent.com/50822992/167810689-72def750-8187-4217-b134-73df3c440d31.JPG)
+<h1 align="center">
+Hi developers, I'm Mahmoud 👋
+</h1>
 
-Most Recently as the past three years I have been working as an Android Developer.
+<p align="center">
+Most Recently as the past three years I have been working as an Android Developer, with diffrent experiences over the past years I found my self becoming a team player and getting obsessed with achiveing the best practice and writing organized clean code within clean arctucture. 
+</p>
 
 <!--
 **M-Elnemr/M-Elnemr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
