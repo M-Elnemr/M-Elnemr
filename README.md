@@ -4,7 +4,7 @@ Hi developers, I'm Mahmoud 👋
 </h1>
 
 <p align="center">
-Most Recently as the past three years I have been working as an Android Developer, with diffrent experiences over the past years I found my self becoming a team player and getting obsessed with achiveing the best practice and writing organized clean code within clean arctucture. 
+Most Recently as the past three years I have been working as an Android Developer, with diffrent experiences over the past years I found my self becoming a team player and getting obsessed with achiveing the best practice and writing organized clean code within clean architecture. 
 </p>
 
 <!--
