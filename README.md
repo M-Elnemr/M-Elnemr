@@ -7,6 +7,8 @@ Hi developers, I'm Mahmoud 👋
 Most Recently as the past three years I have been working as an Android Developer, with diffrent experiences over the past years I found my self becoming a team player and getting obsessed with achiveing the best practice and writing organized clean code within clean architecture. 
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Elnemr&show_icons=true)
+
 <!--
 **M-Elnemr/M-Elnemr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
