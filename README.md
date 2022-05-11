@@ -10,7 +10,6 @@ Most Recently as the past three years I have been working as an Android Develope
 <h3 align="center">Connect with me:  
 <a href="https://www.linkedin.com/in/mahmoud-elnemr-1a6409188/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/50822992/167848907-0c9f023f-1cb6-45b7-9b4d-b2e016d641a0.svg" alt="" height="30" width="40" /></a>
 </h3>
-<br>
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 <p align="center"> 
