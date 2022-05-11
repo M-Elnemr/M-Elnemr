@@ -13,7 +13,6 @@ Most Recently as the past three years I have been working as an Android Develope
 </p>
 
 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=M-Elnemr&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
