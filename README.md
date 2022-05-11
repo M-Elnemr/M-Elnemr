@@ -1,7 +1,6 @@
 ![android](https://user-images.githubusercontent.com/50822992/167810689-72def750-8187-4217-b134-73df3c440d31.JPG)
-<h1 align="center">
-Hi developers, I'm Mahmoud 👋
-</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=499CF7&center=true&vCenter=true&width=1000&lines=Hi+developers%2C+I'm+Mahmoud+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <p align="center">
 Most Recently as the past three years I have been working as an Android Developer, with diffrent experiences over the past years I found my self becoming a team player and getting obsessed with achiveing the best practice and writing organized clean code within clean architecture. 
@@ -24,6 +23,10 @@ Most Recently as the past three years I have been working as an Android Develope
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Elnemr&show_icons=true&theme=radical)
+<br/>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=M-Elnemr&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727)](https://git.io/streak-stats)
+
 
 
 <!--
