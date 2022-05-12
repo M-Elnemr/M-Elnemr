@@ -31,11 +31,11 @@ Most Recently as the past three years I have been working as an Android Develope
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=M-Elnemr&show_icons=true&theme=radical&line_height=27">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=M-Elnemr&show_icons=true&line_height=27">
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=M-Elnemr&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=M-Elnemr&show_icons=true&locale=en&layout=compact&line_height=0" />
 </p> 
 
 <p align = "center">
